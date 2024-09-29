@@ -1,0 +1,29 @@
+
+
+.partsOfSpeech{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.def-para{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    background-color: #2f3566;
+    color: #f7f7f7;
+}
+
+.suggested{
+    background-color: #8794F4;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 4px;
+    margin: 5px 10px 0 0;
+    display: inline;
+}
